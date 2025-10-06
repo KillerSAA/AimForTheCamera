@@ -1,6 +1,4 @@
 #pragma once 
-
-#pragma once 
 // declaration of some classes
 
 class CVector {
@@ -1477,4 +1475,5 @@ struct CPad // sizeof=0x158
 };
 
 //extern unsigned int pGTASA;
+
 //extern CCamera* TheCamera;
