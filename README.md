@@ -1,31 +1,26 @@
 # AimForTheCamera v2.2
 ![1698619484832](https://github.com/KillerSAA/AimForTheCamera_v2.0/assets/136983879/9e6a6ba2-602f-4a0d-9411-906146133ef6)
 
-Um mod criado com o intuito de resolver um problema no gta sa mobile, quando apontamos a câmera em um local e miramos, o angulo da camera nao permanece o mesmo
+A mod created to solve an issue in GTA SA Mobile: when aiming after pointing the camera somewhere, the camera angle would not stay the same.
 
-Mais informações: https://www.youtube.com/watch?v=xc6uV_F3VpA
+More info: https://www.youtube.com/watch?v=xc6uV_F3VpA
 
-Autores: KillerSA e Yuna
+Updates
 
-**Obs:** nossos discords estão no .ini
-
-# Atualizações
 v2.0:
 
-• Foi corrigido o travamento que ocorria ao recarregar algumas armas e ao rolar para os lados.
-• Corrigido o bug onde a câmera não apontava para o lugar certo em algumas situações.
-• Corrigido o problema em que o script não funcionava em algumas armas.
-• Todos os bugs relacionados aos botões do jogo foram corrigidos.
-• Adicionado suporte a gamepads! (e talvez teclado e mouse?)
-• Outros bugs foram corrigidos.
+- Fixed the freeze that happened when reloading some weapons or rolling sideways.
+- Fixed the bug where the camera didn’t point to the correct place in certain situations.
+- Fixed the issue where the script didn’t work with some weapons.
+- All bugs related to in-game buttons have been fixed.
+- Added gamepad support! (and maybe keyboard & mouse?)
+- Other bugs fixed.
 
-v2.1: 
+v2.1:
 
-• Foi corrigido um bug que, ao parar de mirar com algumas armas, a câmera do jogo rotacionava horizontalmente para a direção em que o personagem estava apontado.
+- Fixed a bug where, after stopping aiming with some weapons, the camera would rotate horizontally to the direction the character was facing.
+- Also fixed an issue that locked the camera during the first 100 milliseconds after starting to aim. This lock was previously added by us to prevent incorrect camera positioning, but it’s no longer needed.
+- Other fixes...
 
-• Resolvemos também um problema que travava a câmera nos primeiros 100 milissegundos após iniciar a mira. Essa trava foi implementada anteriormente por nós para evitar posicionamentos incorretos da câmera, mas agora não é mais necessária. 
-
-• Outras correções...
-
-v2.2
-• O mod foi reescrito em c++(a versão antiga em CLEO também está disponível), sendo possível usá-lo no GTA SA v2.00 e v2.10
+v2.2:
+- The mod was rewritten in C++ (the old CLEO version is still available), making it possible to use it on GTA SA v2.00 and v2.10.
